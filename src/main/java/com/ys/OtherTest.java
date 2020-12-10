@@ -14,4 +14,10 @@ public class OtherTest {
         name.forEach(e->{
         });
     }
+
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
