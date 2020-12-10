@@ -20,4 +20,9 @@ public class OtherTest {
     public String toString() {
         return super.toString();
     }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
 }
