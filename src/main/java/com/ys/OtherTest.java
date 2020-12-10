@@ -8,12 +8,10 @@ import java.util.*;
  */
 public class OtherTest {
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         List<Map<String,Object>> name =new ArrayList<>();
         Map<String,Object>map=new HashMap<>();
-
         name.forEach(e->{
-
         });
-    }*/
+    }
 }
